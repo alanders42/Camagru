@@ -1,2 +1,2 @@
 # Camagru
-A web app that allows you to make basic photo and video edits. It makes use of a webcam, and can superimpose predefined images onto taken pictures. These images become public and can be commented on or 'liked' by other users. In short, it's an Instagram clone.
+Camagru is a web-based app that allows you to make basic photo and video editing using your webcam and some predefined images. Users will be able to select an image in a list of superposable images, take a picture with his/her webcam and admire the result that should be mixing both pictures. All captured images are public, likeable and can be commented on.
